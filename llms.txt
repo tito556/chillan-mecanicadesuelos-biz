@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Chillán
+
+> Geotechnical engineering services in Chillán, Chile.
+
+## Services
+- [Aislacion Sismica](https://chillan.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://chillan.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://chillan.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://chillan.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://chillan.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://chillan.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://chillan.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://chillan.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://chillan.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://chillan.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chillan.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chillan.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://chillan.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://chillan.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://chillan.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://chillan.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://chillan.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chillan.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://chillan.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://chillan.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://chillan.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://chillan.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://chillan.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://chillan.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chillan.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://chillan.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://chillan.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://chillan.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://chillan.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://chillan.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://chillan.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://chillan.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://chillan.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://chillan.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://chillan.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://chillan.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://chillan.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://chillan.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://chillan.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://chillan.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Chillán, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
