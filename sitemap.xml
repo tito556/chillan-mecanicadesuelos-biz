@@ -3,166 +3,247 @@
   <url>
     <loc>https://chillan.mecanicadesuelos.biz/</loc>
     <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/inyecciones</loc>
-    <lastmod>2026-03-27</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/zapatas</loc>
-    <lastmod>2026-04-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/aislacion-sismica</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/aislacion-sismica/</loc>
     <lastmod>2026-05-05</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/triaxial</loc>
-    <lastmod>2026-04-26</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/permeabilidad-in-situ</loc>
-    <lastmod>2026-04-22</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/pilotes</loc>
-    <lastmod>2026-04-23</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/monitoreo-excavaciones</loc>
-    <lastmod>2026-04-06</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/anclajes</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/anclajes/</loc>
     <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/masw</loc>
-    <lastmod>2026-04-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/muros-contencion</loc>
-    <lastmod>2026-04-05</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/ensayo-cpt</loc>
-    <lastmod>2026-05-19</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/microzonificacion-sismica</loc>
-    <lastmod>2026-04-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/refraccion-sismica</loc>
-    <lastmod>2026-05-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/columnas-grava</loc>
-    <lastmod>2026-04-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/sondajes-spt</loc>
-    <lastmod>2026-04-26</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/calicatas</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/calicatas/</loc>
     <lastmod>2026-03-26</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/losas-fundacion</loc>
-    <lastmod>2026-04-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/pavimento-rigido</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/cbr-vial/</loc>
     <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/excavaciones-profundas</loc>
-    <lastmod>2026-04-18</lastmod>
+    <loc>https://chillan.mecanicadesuelos.biz/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/tuneles-suelo-blando</loc>
-    <lastmod>2026-04-05</lastmod>
+    <loc>https://chillan.mecanicadesuelos.biz/columnas-grava/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/licuefaccion</loc>
-    <lastmod>2026-04-07</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/vibrocompactacion</loc>
-    <lastmod>2026-04-17</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/ensayos-proctor</loc>
-    <lastmod>2026-03-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/limites-atterberg</loc>
-    <lastmod>2026-05-20</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/resistividad</loc>
-    <lastmod>2026-04-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/densidad-cono-arena</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/densidad-cono-arena/</loc>
     <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/granulometria</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/ensayo-cpt/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/ensayos-proctor/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/estabilidad-taludes/</loc>
     <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/contacto</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/excavaciones-profundas/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/granulometria/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/inyecciones/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/licuefaccion/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/limites-atterberg/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/losas-fundacion/</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/masw/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/microzonificacion-sismica/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/monitoreo-excavaciones/</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/pavimento-flexible</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/muros-contencion/</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/pavimento-flexible/</loc>
     <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/estabilidad-taludes</loc>
-    <lastmod>2026-05-13</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://chillan.mecanicadesuelos.biz/cbr-vial</loc>
+    <loc>https://chillan.mecanicadesuelos.biz/pavimento-rigido/</loc>
     <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://chillan.mecanicadesuelos.biz/privacidad</loc>
-    <lastmod>2026-05-14</lastmod>
+    <loc>https://chillan.mecanicadesuelos.biz/permeabilidad-in-situ/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/pilotes/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/refraccion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/resistividad/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/sondajes-spt/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/triaxial/</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/tuneles-suelo-blando/</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/vibrocompactacion/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chillan.mecanicadesuelos.biz/zapatas/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
